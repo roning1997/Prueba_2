@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Restaurant_N%C3%A4sinneula.jpg/1280px-Restaurant_N%C3%A4sinneula.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+.b{
+   color: azure;
+}
+
+.maps{
+    margin-left: auto;
+    display: block;
+}
+
+h2{
+    color:black;
+}
+
+h1{
+    text-align: center;  
+}
+
